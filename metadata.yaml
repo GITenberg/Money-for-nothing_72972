@@ -1,0 +1,33 @@
+_repo: Money-for-nothing_72972
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wodehouse, P. G. (Pelham Grenville)
+    aliases:
+    - Wodehouse, Pelham Grenville
+    - Windham, Basil
+    - Wodehouse, P.G.
+    birthdate: 1881
+    deathdate: 1975
+    gutenberg_agent_id: '783'
+    url: http://www.gutenberg.org/2009/agents/783
+    wikipedia: https://en.wikipedia.org/wiki/P._G._Wodehouse
+description: ''
+gutenberg_issued: '2024-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72972'
+language: en
+pgterms:marc905: 20231013094035wodehouse
+pgterms:marc906: '1928'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aGarden City, NY :$bDoubleday, Doran & Company, Inc., $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Money for nothing
+url: http://www.gutenberg.org/ebooks/72972
